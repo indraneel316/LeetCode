@@ -24,10 +24,10 @@ class Solution {
                 }
             }
         }
-        
+        HashSet<Character> blockSet = new HashSet<>();
         for(int i =0; i<9; i=i+3) {
              for(int j =0; j<9; j=j+3) {
-                 HashSet<Character> blockSet = new HashSet<>();
+                 // HashSet<Character> blockSet = new HashSet<>();
                  int rowIndex = i;
                  int colIndex = j;
                  int rows = rowIndex+3;
@@ -44,7 +44,7 @@ class Solution {
                          }
                      }
                  }
-
+              blockSet.clear();
              }
             
         }
