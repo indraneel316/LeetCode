@@ -10,7 +10,6 @@
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        TreeNode curr = root;
         if(p.val > root.val && q.val> root.val) {
             return lowestCommonAncestor(root.right, p, q);
         }
@@ -18,6 +17,6 @@ class Solution {
         if(p.val <root.val && q.val < root.val) {
             return lowestCommonAncestor(root.left, p, q);
         }
-        return curr;
+        return root;
     }
 }
