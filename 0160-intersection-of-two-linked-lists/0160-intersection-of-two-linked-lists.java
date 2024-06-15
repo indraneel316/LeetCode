@@ -55,9 +55,6 @@ public class Solution {
         }
         
         
-        
-            
-        ListNode res = new ListNode();
         while(curr1!=null && curr2!=null) {
             
             if(curr1 == curr2) {
