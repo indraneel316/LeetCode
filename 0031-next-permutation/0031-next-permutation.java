@@ -12,7 +12,7 @@ class Solution {
         }
         if(idealIndex!=-1) {
         for(int i= len-1; i>=idealIndex; i--) {
-            if(nums[i] > nums[idealIndex]) {
+            if(nums[i] > nums[idealIndex]) { // the first element we will be finding will be the smallest of other elments after idealIndex position but will be greater than nums[idealIndex]
                 int temp = nums[i];
                 nums[i] = nums[idealIndex];
                 nums[idealIndex] = temp;
