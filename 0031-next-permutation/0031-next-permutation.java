@@ -20,7 +20,7 @@ class Solution {
             }
         }
 
-
+//swap the remaining elements from idealIndex , basically idealIndex is an index that breaks the increasing sequence from backwards to identify the largest prefix 
         int p1 = idealIndex+1; 
         int p2 = nums.length-1;
 
