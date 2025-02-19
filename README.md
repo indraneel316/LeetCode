@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/indraneel316/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/indraneel316/LeetCode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/indraneel316/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/indraneel316/LeetCode/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/indraneel316/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/indraneel316/LeetCode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/indraneel316/LeetCode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/indraneel316/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/indraneel316/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/indraneel316/LeetCode/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,4 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/indraneel316/LeetCode/tree/master/0169-majority-element) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/indraneel316/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/indraneel316/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/indraneel316/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/indraneel316/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
