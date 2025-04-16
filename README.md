@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/indraneel316/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/indraneel316/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/indraneel316/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/indraneel316/LeetCode/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/indraneel316/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/indraneel316/LeetCode/tree/master/0229-majority-element-ii) |
+| [0567-permutation-in-string](https://github.com/indraneel316/LeetCode/tree/master/0567-permutation-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/indraneel316/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/indraneel316/LeetCode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/indraneel316/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
