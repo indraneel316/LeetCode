@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/indraneel316/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/indraneel316/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/indraneel316/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/indraneel316/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/indraneel316/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/indraneel316/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/indraneel316/LeetCode/tree/master/0075-sort-colors) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/indraneel316/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/indraneel316/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/indraneel316/LeetCode/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/indraneel316/LeetCode/tree/master/0567-permutation-in-string) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/indraneel316/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
