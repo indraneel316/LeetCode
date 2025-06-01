@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/indraneel316/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/indraneel316/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/indraneel316/LeetCode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/indraneel316/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/indraneel316/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0287-find-the-duplicate-number](https://github.com/indraneel316/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/indraneel316/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/indraneel316/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/indraneel316/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 ## String
 |  |
