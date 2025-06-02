@@ -1,20 +1,23 @@
 class Solution {
     public boolean isPalindrome(String s) {
         
- s = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();        
-        System.out.println(s);
-        char [] a = s.toCharArray();
-        char [] b = new char[a.length];
-        int pointer =0;
-        for(int i= b.length-1;i>=0;i--) {
-            b[i] = a[pointer];
-            pointer++;
+       int left =0;
+       int right = s.length()-1;
+
+       while(left<right) {
+        while(left<right && !Character.isLetterOrDigit(s.charAt(left))) {
+            left++;
         }
-        for(int i =0; i<a.length;i++) {
-            if(a[i]!=b[i]) {
-                return false;
-            }
+        while(left<right && !Character.isLetterOrDigit(s.charAt(right))) {
+            right--;
         }
-        return true;
+
+        if(Character.toLowerCase(s.charAt(left)) != Character.toLowerCase(s.charAt(right))) {
+            return false;
+        }
+        left++;
+        right--;
+       }
+       return true;
     }
 }
