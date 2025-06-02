@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/indraneel316/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/indraneel316/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/indraneel316/LeetCode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/indraneel316/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/indraneel316/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/indraneel316/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/indraneel316/LeetCode/tree/master/0053-maximum-subarray) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/indraneel316/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/indraneel316/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/indraneel316/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/indraneel316/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/indraneel316/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/indraneel316/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/indraneel316/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/indraneel316/LeetCode/tree/master/0217-contains-duplicate) |
