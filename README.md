@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/indraneel316/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/indraneel316/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/indraneel316/LeetCode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/indraneel316/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/indraneel316/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/indraneel316/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/indraneel316/LeetCode/tree/master/0053-maximum-subarray) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/indraneel316/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/indraneel316/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/indraneel316/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/indraneel316/LeetCode/tree/master/0118-pascals-triangle) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/indraneel316/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/indraneel316/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/indraneel316/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/indraneel316/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/indraneel316/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/indraneel316/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/indraneel316/LeetCode/tree/master/0125-valid-palindrome) |
@@ -173,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/indraneel316/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/indraneel316/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/indraneel316/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
