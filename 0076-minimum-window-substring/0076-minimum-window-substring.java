@@ -4,54 +4,49 @@ class Solution {
             return "";
         }
 
-        // Frequency array to count characters in `t`
-        int[] freq = new int[58]; // 58 to account for both uppercase and lowercase letters
-
-        // Fill frequency array for characters in `t`
-        for (char c : t.toCharArray()) {
-            freq[c - 'A']++;
-        }
-
-        // Variables for the sliding window
-        int left = 0, right = 0, count = t.length();
+        int left =0;
+        int right = 0;
         int minLen = Integer.MAX_VALUE;
-        String result = "";
+        
+        int [] freq = new int[58];
 
-        // Start sliding window
-        while (right < s.length()) {
+        int count = t.length();
+
+         String result ="";
+
+        for(char c : t.toCharArray()) {
+            freq[c -'A']++;
+        }
+        while(right<s.length()) {
+
             char rightChar = s.charAt(right);
 
-            // If character is needed, reduce its count
-            if (freq[rightChar - 'A'] > 0) {
+            if(freq[rightChar -'A'] > 0) {
+
                 count--;
             }
+            freq[rightChar-'A']--;
 
-            // Decrement the frequency array for the current character
-            freq[rightChar - 'A']--;
             right++;
 
-            // When all characters from `t` are in the current window
-            while (count == 0) {
-                // Update result if the current window is smaller
-                if (right - left < minLen) {
-                    minLen = right - left;
-                    result = s.substring(left, right);
+        
+            while(count == 0) {
+
+                if(right-left<minLen) {
+                    minLen = right-left;
+                    result = s.substring(left,right);
                 }
 
-                char leftChar = s.charAt(left);
-
-                // Restore the count in the frequency array
-                freq[leftChar - 'A']++;
-
-                // If the restored character was part of `t`, increment `count`
-                if (freq[leftChar - 'A'] > 0) {
-                    count++;
-                }
-
-                left++; // Shrink the window
+               char leftChar = s.charAt(left);
+               freq[leftChar - 'A']++;
+               if(freq[leftChar - 'A'] > 0) {
+                count++;
+               }
+               left++;
             }
         }
 
         return result;
-    }
+
+}
 }
