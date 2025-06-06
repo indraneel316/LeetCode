@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/indraneel316/LeetCode/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/indraneel316/LeetCode/tree/master/0271-encode-and-decode-strings) |
 ## Union Find
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/indraneel316/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/indraneel316/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/indraneel316/LeetCode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
