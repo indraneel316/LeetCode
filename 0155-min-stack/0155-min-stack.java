@@ -29,8 +29,6 @@ int min;
             }
         }
         
-
-        
     }
     
     public int top() {
