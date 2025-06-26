@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/indraneel316/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/indraneel316/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/indraneel316/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/indraneel316/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/indraneel316/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/indraneel316/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/indraneel316/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/indraneel316/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/indraneel316/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
