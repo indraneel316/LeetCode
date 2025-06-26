@@ -34,14 +34,16 @@ class Solution {
             temp = temp.next;
         }
 
-        if(firstHalf!=null) {
+        while(firstHalf!=null) {
             temp.next = firstHalf;
             firstHalf = firstHalf.next;
+            temp = temp.next;
         }
         
-        if(secondHalf!=null) {
+        while(secondHalf!=null) {
             temp.next = secondHalf;
             secondHalf = secondHalf.next;
+            temp = temp.next;
         }
 
         head = freshNode.next;
