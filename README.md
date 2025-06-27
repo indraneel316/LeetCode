@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/indraneel316/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/indraneel316/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/indraneel316/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/indraneel316/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/indraneel316/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/indraneel316/LeetCode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/indraneel316/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/indraneel316/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/indraneel316/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Sliding Window
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/indraneel316/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/indraneel316/LeetCode/tree/master/0055-jump-game) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/indraneel316/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/indraneel316/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Heap (Priority Queue)
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/indraneel316/LeetCode/tree/master/0022-generate-parentheses) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/indraneel316/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Linked List
 |  |
 | ------- |
@@ -267,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/indraneel316/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Enumeration
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/indraneel316/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
