@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/indraneel316/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/indraneel316/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/indraneel316/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/indraneel316/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/indraneel316/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/indraneel316/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/indraneel316/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/indraneel316/LeetCode/tree/master/0883-car-fleet) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/indraneel316/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/indraneel316/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/indraneel316/LeetCode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/indraneel316/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/indraneel316/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Counting
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/indraneel316/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/indraneel316/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/indraneel316/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Bucket Sort
 |  |
 | ------- |
