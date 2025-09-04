@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/indraneel316/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/indraneel316/LeetCode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/indraneel316/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3830-find-closest-person](https://github.com/indraneel316/LeetCode/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
 | ------- |
