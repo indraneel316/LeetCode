@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/indraneel316/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/indraneel316/LeetCode/tree/master/0883-car-fleet) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/indraneel316/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2887-sort-vowels-in-a-string](https://github.com/indraneel316/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/indraneel316/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/indraneel316/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/indraneel316/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2887-sort-vowels-in-a-string](https://github.com/indraneel316/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/indraneel316/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
 |  |
