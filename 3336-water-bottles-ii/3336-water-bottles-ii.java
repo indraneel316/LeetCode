@@ -2,7 +2,7 @@ class Solution {
     public int maxBottlesDrunk(int numBottles, int numExchange) {
 
 
-        int bottlesDrunk = numBottles;
+        int totalbottlesDrunk = numBottles; // 
 
         int empty = numBottles;
 
@@ -15,10 +15,10 @@ class Solution {
             curr++;
             empty++;
 
-            bottlesDrunk++;
+            totalbottlesDrunk++;
         }
 
-        return bottlesDrunk;
+        return totalbottlesDrunk;
         
     }
 }
