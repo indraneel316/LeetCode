@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/indraneel316/LeetCode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/indraneel316/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/indraneel316/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [3336-water-bottles-ii](https://github.com/indraneel316/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3830-find-closest-person](https://github.com/indraneel316/LeetCode/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
@@ -341,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/indraneel316/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Simulation
+|  |
+| ------- |
+| [3336-water-bottles-ii](https://github.com/indraneel316/LeetCode/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
