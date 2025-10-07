@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/indraneel316/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/indraneel316/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/indraneel316/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1612-avoid-flood-in-the-city](https://github.com/indraneel316/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/indraneel316/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/indraneel316/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/indraneel316/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/indraneel316/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/indraneel316/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/indraneel316/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1612-avoid-flood-in-the-city](https://github.com/indraneel316/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/indraneel316/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Bit Manipulation
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/indraneel316/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/indraneel316/LeetCode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/indraneel316/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1612-avoid-flood-in-the-city](https://github.com/indraneel316/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/indraneel316/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3678-design-task-manager](https://github.com/indraneel316/LeetCode/tree/master/3678-design-task-manager) |
 ## Counting
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/indraneel316/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/indraneel316/LeetCode/tree/master/0055-jump-game) |
+| [1612-avoid-flood-in-the-city](https://github.com/indraneel316/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/indraneel316/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/indraneel316/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Heap (Priority Queue)
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/indraneel316/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/indraneel316/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/indraneel316/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1612-avoid-flood-in-the-city](https://github.com/indraneel316/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/indraneel316/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3678-design-task-manager](https://github.com/indraneel316/LeetCode/tree/master/3678-design-task-manager) |
 ## Bucket Sort
