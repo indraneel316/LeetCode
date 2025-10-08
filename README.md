@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/indraneel316/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/indraneel316/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/indraneel316/LeetCode/tree/master/0493-reverse-pairs) |
+| [0611-valid-triangle-number](https://github.com/indraneel316/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0739-daily-temperatures](https://github.com/indraneel316/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/indraneel316/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/indraneel316/LeetCode/tree/master/0883-car-fleet) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/indraneel316/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/indraneel316/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/indraneel316/LeetCode/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/indraneel316/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/indraneel316/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/indraneel316/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/indraneel316/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/indraneel316/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/indraneel316/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0611-valid-triangle-number](https://github.com/indraneel316/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0883-car-fleet](https://github.com/indraneel316/LeetCode/tree/master/0883-car-fleet) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/indraneel316/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/indraneel316/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/indraneel316/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/indraneel316/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/indraneel316/LeetCode/tree/master/0493-reverse-pairs) |
+| [0611-valid-triangle-number](https://github.com/indraneel316/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/indraneel316/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/indraneel316/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/indraneel316/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/indraneel316/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/indraneel316/LeetCode/tree/master/0055-jump-game) |
+| [0611-valid-triangle-number](https://github.com/indraneel316/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/indraneel316/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/indraneel316/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/indraneel316/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
