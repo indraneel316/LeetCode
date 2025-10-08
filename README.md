@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/indraneel316/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/indraneel316/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/indraneel316/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/indraneel316/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/indraneel316/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/indraneel316/LeetCode/tree/master/0567-permutation-in-string) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/indraneel316/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/indraneel316/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/indraneel316/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/indraneel316/LeetCode/tree/master/0883-car-fleet) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/indraneel316/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/indraneel316/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/indraneel316/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Math
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/indraneel316/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1612-avoid-flood-in-the-city](https://github.com/indraneel316/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/indraneel316/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/indraneel316/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
