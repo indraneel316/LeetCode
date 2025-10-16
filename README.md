@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/indraneel316/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/indraneel316/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/indraneel316/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/indraneel316/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/indraneel316/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/indraneel316/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/indraneel316/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/indraneel316/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/indraneel316/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/indraneel316/LeetCode/tree/master/1642-water-bottles) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/indraneel316/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/indraneel316/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3830-find-closest-person](https://github.com/indraneel316/LeetCode/tree/master/3830-find-closest-person) |
 ## Matrix
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/indraneel316/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/indraneel316/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/indraneel316/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/indraneel316/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3678-design-task-manager](https://github.com/indraneel316/LeetCode/tree/master/3678-design-task-manager) |
 ## Counting
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/indraneel316/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/indraneel316/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/indraneel316/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/indraneel316/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
