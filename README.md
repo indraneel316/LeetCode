@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/indraneel316/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/indraneel316/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/indraneel316/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3640-trionic-array-ii](https://github.com/indraneel316/LeetCode/tree/master/3640-trionic-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/indraneel316/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/indraneel316/LeetCode/tree/master/0118-pascals-triangle) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/indraneel316/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3640-trionic-array-ii](https://github.com/indraneel316/LeetCode/tree/master/3640-trionic-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
