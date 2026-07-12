@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/indraneel316/LeetCode/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/indraneel316/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/indraneel316/LeetCode/tree/master/1068-product-sales-analysis-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/indraneel316/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/indraneel316/LeetCode/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/indraneel316/LeetCode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/indraneel316/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
